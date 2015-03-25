@@ -2,7 +2,7 @@
 Contributors: technosailor, gungeekatx
 Tags: comments, avatars
 Requires at least: 4.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: MIT
 License URI: http://opensource.org/licenses/MIT
